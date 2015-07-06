@@ -1,4 +1,4 @@
-<?php namespace App\Tpl\Providers;
+<?php namespace YC\Tpl\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

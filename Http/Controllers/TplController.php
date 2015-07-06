@@ -1,6 +1,6 @@
-<?php namespace App\Tpl\Http\Controllers;
+<?php namespace YC\Tpl\Http\Controllers;
 
-use Pingpong\Modules\Routing\Controller;
+use YCMS\Modules\Routing\Controller;
 
 class TplController extends Controller {
 	

@@ -1,4 +1,4 @@
-<?php namespace App\Tpl\Database\Seeders;
+<?php namespace YC\Tpl\Database\Seeders;
 
 use Illuminate\Database\Seeder;
 use Illuminate\Database\Eloquent\Model;
